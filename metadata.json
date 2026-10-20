@@ -1,0 +1,6 @@
+{
+  "name": "Kodluyoruz Asansör Simülatörü ve UML Sınıf Diyagramı",
+  "description": "Kodluyoruz Sigorta Şirketi 12 katlı bina ve 5 asansörlü sistem için Nesne Yönelimli Programlama (OOP) ilkelerine uygun UML sınıf diyagramı ve interaktif simülatör. Tasarım: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
